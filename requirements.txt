@@ -1,0 +1,9 @@
+google-genai>=1.0
+claude-agent-sdk>=0.1.80
+diffusers>=0.35
+torch>=2.4
+pillow
+imageio-ffmpeg
+numpy
+matplotlib
+seaborn
